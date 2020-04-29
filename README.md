@@ -1,2 +1,2 @@
 # meme-generator
-Meme generator created by React
+Meme generator created in React
